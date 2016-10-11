@@ -1,23 +1,23 @@
 # Site settings
-email: 
-baseurl: ""
+email: electronicslab@icloud.com
+baseurl: "http://marccobler.es"
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics:
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: Marc Cobler
+description:
+url: "http://marccobler.es"
+twitter_username: kitusmark
+default_img:
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Marc Cobler Cosmen
+profile_img:
+profile:
 social:
-  github: 
+  github: kitusmark
 
 # Build settings
 include: ["_categories"]
